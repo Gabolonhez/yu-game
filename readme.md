@@ -5,6 +5,9 @@
 ## 📑 Descrição
 Jogo de jokenpo no estilo Yu Gi Oh
 
+## 🎯 Funcionalidades
+
+- [x] `Selecione uma carta`: Permite os usuários selecioanr uma carta para jogar.
 
 ## 💻 Tecnologias 
 
