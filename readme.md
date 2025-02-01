@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/f494b3fc-36d3-40c9-be97-b365e5669bfc)
 
 ## 📑 Descrição
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
+Jogo de jokenpo no estilo Yu Gi Oh
 
 
 ## 💻 Tecnologias 
